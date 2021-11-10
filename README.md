@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HoboHub
 - 👀 I’m interested in Job (Saint-Petersburg or remotely)
-- 🌱 I’m currently learning advanced JS, React 
 - 💞️ I’m looking to collaborate on OpenSource projects 
 - 📫 How to reach me: mihail.salavatov@mail.ru
 

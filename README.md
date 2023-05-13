@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HoboHub
-- 💞️ I’m looking to collaborate on OpenSource projects 
+- 💞️ I’m looking for collaboration in OpenSource projects 
 - 📫 How to reach me: mihail.salavatov@mail.ru
 
 <!---
